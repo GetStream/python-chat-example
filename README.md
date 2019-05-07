@@ -1,6 +1,8 @@
+![Chat with Python, Django and React](https://i.imgur.com/EF8yFCQ.jpg)
+
 # Chat with Python, Django and React
 
-This is the accompanying GitHub repository for the blog post [Chat with Python, Django and React](https://getstream.io/blog).
+This is the accompanying GitHub repository for the tutorial [Chat with Python, Django and React](https://getstream.io/blog).
 
 ## To get started, follow these steps:
 
