@@ -4,7 +4,7 @@
 
 Building chat with Python can be a time consuming task. [Stream Chat](https://getstream.io/chat/) provides the necessary SDK and underlying infrastructure to allow anyone to build chat with Python.
 
-This repository hosts the codebase for the tutorial [Chat with Python, Django and React](https://getstream.io/blog).
+This repository hosts the codebase for the tutorial [Chat with Python, Django and React](https://dev.to/nickparsons/tutorial-chat-with-python-django-and-react-1cpk).
 
 ## To get started, follow these steps:
 
