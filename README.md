@@ -1,3 +1,5 @@
+> **This repository is archived and no longer maintained.** For a current alternative, see [the React chat tutorial](https://getstream.io/chat/sdk/react/tutorial/).
+
 ![Chat with Python, Django and React](https://i.imgur.com/EF8yFCQ.jpg)
 
 # Chat with Python, Django and React
